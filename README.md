@@ -1,4 +1,4 @@
-# Data Scientist
+# Lecturer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
